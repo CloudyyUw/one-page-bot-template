@@ -5,8 +5,4 @@
  
  ![Preview](preview.png)
  
- ## Instalação:
- 
- ```
- git clone
- ```
+ ****
